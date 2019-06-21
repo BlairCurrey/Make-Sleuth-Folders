@@ -1,5 +1,5 @@
 # Make-Sleuth-Folders
-This utility creates directories for the Sleuth files for University of London's 'Intro to Programming I' course
+This utility creates directories for the Sleuth files for University of London's 'Intro to Programming I' course.
 
 Run the program in the folder where you want to create the directories. You can create all the directories, or just the rookie/pro stages.
 
